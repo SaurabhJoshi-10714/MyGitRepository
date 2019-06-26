@@ -1,0 +1,9 @@
+This is my first git....Welcome to git singham..!!!
+
+
+
+
+
+$ git config --global user.name "saurabh joshi"
+
+$ git config --global user.email "saurabh_joshi1@persistent.co.in"

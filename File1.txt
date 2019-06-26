@@ -2,7 +2,7 @@ This is my first git....Welcome to git singham..!!!
 
 
 class HelloGit{
-	main(){
+	publicc static void main(String str[]){
 		sysout("Hello Git...!!!");
 	}
 }

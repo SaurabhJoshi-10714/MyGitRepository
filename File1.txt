@@ -1,7 +1,11 @@
 This is my first git....Welcome to git singham..!!!
 
 
-
+class HelloGit{
+	main(){
+		sysout("Hello Git...!!!");
+	}
+}
 
 
 $ git config --global user.name "saurabh joshi"

@@ -17,7 +17,7 @@ class HelloGit{
 	}
 
 	public static void BigMethod(){
-		syso("");
+		System.out.println("");
 
 	}
 }

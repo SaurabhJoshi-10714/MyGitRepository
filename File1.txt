@@ -16,7 +16,7 @@ class HelloGit{
 		HelloGit.helloGit("Hello");
 	}
 
-	void BigMethod(){
+	public static void BigMethod(){
 		syso("");
 
 	}

@@ -3,14 +3,14 @@
 
 class HelloGit{
 
-	void helloGit(){
+	static void helloGit(){
 		System.out.println("hellooo gittt");
 	
 	}
 
 	public static void main(String str[]){
-		HelloGit obj = new HelloGit();
-		obj.helloGit();
+		
+		HelloGit.helloGit();
 	}
 	void BigMethod(){
 		syso("");
